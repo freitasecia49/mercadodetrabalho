@@ -1,10 +1,18 @@
 body {
 color: blue;
-background-image:linear-gradient( red, white); /*comnetario no css*/
+background-image:linear-gradient( red, white, blueviolet, #666); /*comnetario no css*/
 
 }
 ul,{
     color: blueviolet;
     background-color: red;
     font-size: 20px;
+}
+
+.Titulo{ /* referenciar CLASS sempre inclui . no css*/
+
+}
+
+#seletor{ /* referenciar ID sempre inclui # no css*/
+
 }
