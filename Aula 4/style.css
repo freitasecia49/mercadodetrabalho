@@ -1,0 +1,10 @@
+body {
+color: blue;
+background-image:linear-gradient( red, white); /*comnetario no css*/
+
+}
+ul,{
+    color: blueviolet;
+    background-color: red;
+    font-size: 20px;
+}
