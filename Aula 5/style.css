@@ -1,0 +1,21 @@
+*{
+    margin: 0 auto;
+    padding:0;
+}
+.menu-horizontal{
+    background-color: rgb(145, 145, 202);
+}
+.menu-horizontal ul{
+    max-width: 800px;
+}
+.menu-horizontal ul li{
+    display: inline;   /* para colocar a lista do menu na HORIZONTAL*/
+    /*border-style: dashed;*/ /* INCLUIR BORDA PARA ALINHAR OS ESPAÇAMENTO*/
+}
+.menu-horizontal ul li a{
+    color: #FFF; /* texto*/
+    padding: 50px;
+    display: inline-block;
+    text-decoration: none; /*retira padrão do texto*/
+
+}
