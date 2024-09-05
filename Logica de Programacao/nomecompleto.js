@@ -7,4 +7,4 @@ let sobrenome = "Pereira";
 
 let nomecompleto = (nome +" "+ sobrenome)
 
-console.log(nomecompleto)
+console.log("Seu nome completo é:" + nomecompleto)
