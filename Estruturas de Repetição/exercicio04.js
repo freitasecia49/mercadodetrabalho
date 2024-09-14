@@ -1,10 +1,23 @@
-n = 0;
+/*cont = 0; EXEMPLO DE DOIS SISTEMAS
 x = 2;
+resto = 0;
 
-while ( n >=0 && n <= 20){
+while ( cont >=0 && cont <= 19){
+    
+    cont++;
+     resto = cont % x;
 
-    n = n / x;
-console.log(n)
+    if (resto == 1)
+    console.log(cont)
 
-}
+  }*/
+
+    let numero =1
+    while(numero <=20){
+      if(numero %2 != 0){
+        console.log(numero)
+      }
+      numero++
+    }
+
     
