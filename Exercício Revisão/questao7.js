@@ -1,4 +1,8 @@
-var x = 0
-var y = 0
+var x = 1;
 
-while()
+while( x<=20 ){
+    if( x%2 == 1 ){
+        console.log(x);
+    }
+    x++;
+} 
