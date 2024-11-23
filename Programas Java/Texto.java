@@ -6,7 +6,7 @@ Write your code in this editor and press "Run" button to execute it.
 
 *******************************************************************************/
 
-public class Main{
+public class Texto{
     public static void main(String[] args){
             //int numero = 5;
             //String texto = "10";

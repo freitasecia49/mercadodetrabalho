@@ -22,7 +22,7 @@ public class ExemploIfElseScanner{
 	    } else {
 	        System.out.println("Você é um desenvolvedor Sênior!");
 	    }
-	    
+	    scanner.close();//fecha o scanner
 	}
 }
 	   
